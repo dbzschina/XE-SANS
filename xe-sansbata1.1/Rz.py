@@ -2,7 +2,7 @@ import subprocess
 import sys
 from datetime import datetime
 
-version = "xe-sans bata 1.1"#   版本号
+version = "xe-sans bata A1.1update1"#   版本号
 
 class LogMonitor:
     _instance = None

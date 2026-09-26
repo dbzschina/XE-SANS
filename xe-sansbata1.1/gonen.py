@@ -4,17 +4,25 @@ def helph():
     print('''帮助:
     calc    计算器
     log     启动日志监测
-    quit    退出''')
+    quit    退出
+    exit    退出
+    enc     以Base64加密
+    dec     解密Base64
+    kill    ''')
 
 def help():
     print('''帮助:
     calc    计算器
     log     启动日志监测
     us      降权
-    quit    退出''')
+    quit    退出
+    exit    退出
+    enc     以Base64加密
+    dec     解密Base64
+    kill    ''')
 
 
-# 你要的函数：calac(a, b, c)
+# 函数：calac(a, b, c)
 def calac(a, b, c):
     # a = 第一个数字
     # b = 第二个数字
